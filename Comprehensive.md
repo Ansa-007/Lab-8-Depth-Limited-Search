@@ -876,5 +876,9 @@ class AdaptiveDLS:
 | A* | O(b^d) | O(b^d) | Yes | Yes (with admissible heuristic) |
 
 ---
+### Author: 
+
+**Khansa Younas**
 
 *This lab manual provides a comprehensive foundation for understanding and implementing Depth Limited Search in professional and industrial contexts. The examples and exercises are designed to build practical skills while maintaining theoretical rigor.*
+
