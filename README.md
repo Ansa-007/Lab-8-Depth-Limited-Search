@@ -1,4 +1,4 @@
-# Depth Limited Search - Professional Lab Manual
+# Depth Limited Search - Implementation
 
 ## Overview
 
@@ -253,3 +253,4 @@ For questions, clarifications, or additional resources:
 ---
 
 **Note**: This lab manual assumes familiarity with basic algorithms, data structures, and Python programming. The material progresses from fundamental concepts to advanced industry applications, making it suitable for both learning and professional reference.
+
